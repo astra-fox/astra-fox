@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm Ali.
+
+Personal website: https://astra-fox.github.io
 
 <!--
 **astra-fox/astra-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
